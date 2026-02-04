@@ -9,4 +9,10 @@ This is a technical portfolio showing my abilities on Computer Science or relate
 My role: designer of the clustering and data analysis module \
 Developed as part of a team programming project course
 
+### Personal implementation
+
+**[Data structures][link-2]** \
+Technical implementation of fundamental data structures
+
 [link-1]: https://github.com/jiawen-main/portfolio/tree/main/behavioural-pattern-extractor#behavioural-pattern-extractor---team-programming-project
+[link-2]: https://github.com/jiawen-main/portfolio/tree/main/data-structures#data-structures-implementation
