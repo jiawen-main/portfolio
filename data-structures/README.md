@@ -2,8 +2,7 @@
 
 This directory shows technical implementation of fundamental data structures, with a modular design.
 
-### Node
-[implementation][link-1]
+### Node ([implementation][link-1])
 
 An implementation of a non-assignable generic node.
 
@@ -14,8 +13,7 @@ Features:
 - Using std::vector (contiguous memory allocation) to store multiples childs.
 - No self-referenced or duplicated childs
 
-### Trie
-[header][link-2] | [implementation][link-3]
+### Trie ([header][link-2] | [implementation][link-3])
 
 An efficient implementation of an array of string in C++
 
@@ -35,6 +33,6 @@ Features:
 
 Note: **m** is the size of the string/prefix, N is the size of the map
 
-[link-1] https://github.com/jiawen-main/portfolio/tree/main/data-structures/node/Node.hh
-[link-2] https://github.com/jiawen-main/portfolio/tree/main/data-structures/trie/Trie.hh
-[link-3] https://github.com/jiawen-main/portfolio/tree/main/data-structures/trie/Trie.cc
+[link-1]: https://github.com/jiawen-main/portfolio/tree/main/data-structures/node/Node.hh
+[link-2]: https://github.com/jiawen-main/portfolio/tree/main/data-structures/trie/Trie.hh
+[link-3]: https://github.com/jiawen-main/portfolio/tree/main/data-structures/trie/Trie.cc
