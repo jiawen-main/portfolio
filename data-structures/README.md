@@ -24,6 +24,8 @@ Features:
 - The cost of the destructor is O(1), by using smart pointer which manages automatically the memory.
 - The memory is used more efficiently because of sharing prefixes 
 
+Table of comparison between trie and map:
+
 | Operation    | Trie complexity | Map complexity |
 |--------------|-----------------|----------------|
 | Insertion    | O(**m**)        | O(**m** log N) |
